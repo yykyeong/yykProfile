@@ -101,7 +101,7 @@ skills.forEach((skill, i)=>{
 let win;
 function openWindow(wth){
 	win = window.open(
-    'http://yykyeong.dothome.co.kr/temp/main.html'
+    'https://startling-kringle-a3acb9.netlify.app'
     ,'winPop',
     `'toolbar=no,location=no,status=no,menubar=no,resizeable=no, scrollbars=yes,width=${wth}, height=800,left=50%,top=150'`);
 }  
